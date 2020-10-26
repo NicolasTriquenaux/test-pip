@@ -9,5 +9,5 @@ setup(name='test-pip',
       author='trololo',
       author_email='troll@trololo.com',
       license='',
-      packages=["test-pip"],
+      packages=["toto"],
       zip_safe=False)
